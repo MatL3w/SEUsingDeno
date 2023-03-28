@@ -4,4 +4,3 @@ message="hello";
 
 console.log(message);
 
-Deno.
